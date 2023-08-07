@@ -1,7 +1,4 @@
 
 
-<<<<<<< HEAD
 Add Some Text Form local Repo
-=======
-Add Some Text Form Github Repo
->>>>>>> e02aa9bce6d44b329f221da957651884c99ce451
+
